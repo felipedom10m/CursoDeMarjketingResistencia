@@ -2,9 +2,10 @@
   "email": "teste@teste.com",
   "produto": "CursoDeMarjketingResistencia",
   "upsells_comprados": [
-    2
+    2,
+    "Pudim"
   ],
-  "data": "2025-08-15T22:47:19.921Z",
-  "transacao_id": "test_307080",
+  "data": "2025-08-15T22:52:44.804Z",
+  "transacao_id": "test-pix-1755298364804",
   "acesso_liberado": true
 }
