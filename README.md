@@ -1,0 +1,2 @@
+# CursoDeMarjketingResistencia
+Área de membros para CursoDeMarjketingResistencia
